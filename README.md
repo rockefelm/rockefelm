@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ee21e1fb-6675-4b13-93dd-b05f14c93fb8/thumbnail" >
+</p>
+
 ## Hi there 👋
 
 <!--

@@ -4,6 +4,12 @@
 
 ## Hi there 👋
 
+I'm a Back-end Developer in training.
+I enjoy writing in Typescript and Python.
+I'm currently learning SQL from the ground up to expand my skillset.
+
+Checkout some of my pinned projects below!
+
 <!--
 **rockefelm/rockefelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

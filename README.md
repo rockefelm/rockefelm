@@ -6,7 +6,7 @@
 
 - I'm a Back-end Developer in training.
 - I enjoy writing in Typescript and Python.
-- I'm currently learning SQL from the ground up to expand my skillset.
+- I'm currently making an HTTP Parser/Server from the ground up without libraries or frameworks.
 
 ### Checkout some of my pinned projects below!
 

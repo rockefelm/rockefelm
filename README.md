@@ -6,7 +6,7 @@
 
 - I'm a Back-end Developer in training.
 - I enjoy writing in Typescript and Python.
-- I'm currently making an HTTP Parser/Server from the ground up without using a framework.
+- I'm currently learning how to make a fileserver using s3 and cloudfront.
 
 ### Checkout some of my pinned projects below!
 

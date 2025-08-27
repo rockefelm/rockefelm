@@ -6,7 +6,8 @@
 
 - I'm a Back-end Developer in training.
 - I enjoy writing in Typescript and Python.
-- I'm currently learning how to make a fileserver using s3 and cloudfront.
+- I just recently finished Boot.Dev's Backend-Developer learning track for TypeScript
+- I'm currently learning to program in Go. 
 
 ### Checkout some of my pinned projects below!
 

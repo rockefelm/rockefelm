@@ -6,7 +6,7 @@
 
 - I'm a Back-end Developer in training.
 - I enjoy writing in Typescript and Python.
-- I just recently finished Boot.Dev's Backend-Developer learning track for TypeScript
+- I've finished Boot.Dev's Backend-Developer learning track for TypeScript and am making my through the Go track.
 - I'm currently learning to program in Go and how to use django!
 
 ### Checkout some of my pinned projects below!
